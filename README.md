@@ -23,16 +23,6 @@ I believe great software is built not only with good code, but also with thought
 
 ---
 
-## 🎯 Current Focus
-
-- 🤖 AI Agents & LLM Applications
-- 🧠 Multi-Agent Systems
-- ⚙️ Backend Engineering
-- 📊 Data-Driven Applications
-- ☁️ Cloud & Scalable Systems
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -145,41 +135,6 @@ Nutrition recommendation platform helping users maintain balanced dietary habits
 - Food recommendation
 - Firebase backend
 - React Native application
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YoooungJae&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoooungJae&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-I'm continuously improving my skills in
-
-- Agentic RAG
-- LangGraph
-- FastAPI
-- AWS
-- Kubernetes
-- System Design
-- Distributed Systems
-
----
-
-# 📚 Currently Working On
-
-- Building AI Agent applications
-- Solving algorithm problems on LeetCode
-- Exploring production-ready AI systems
-- Improving backend architecture skills
 
 ---
 
