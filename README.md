@@ -4,76 +4,48 @@
 Software Engineer
 </p>
 
-<div align="center">
-
-```text
-youngjae@github:~$ whoami
-
-Youngjae Lee
-
-Software Engineer
-
-Interested in AI,
-Building reliable backend systems.
+```python
+developer = {
+    "name": "Youngjae Lee",
+    "role": "Software Engineer",
+    "interests": [
+        "Backend",
+        "Artificial Intelligence",
+        "Data Engineering"
+    ],
+    "currently": "Building reliable software while growing in AI"
+}
 ```
-
-</div>
-
----
-
-## 📫 Connect
 
 <p>
 <a href="mailto:leeyoungjae0096@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/youngjaelee0096">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
----
-
-## 🛠 Tech Stack
-
-### Languages
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,supabase,postgres" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />
-</p>
-
-### AI / Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,django,flask,nodejs,react,nextjs,flutter,postgres,supabase,tensorflow,docker,git,vscode,github,figma" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Chaining-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seq2Seq-10B981?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Chaining-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seq2Seq-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
 </p>
 
-### Tools
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YoooungJae&show_icons=true&hide_border=true&theme=transparent"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,figma" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoooungJae&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 <!--
