@@ -1,25 +1,37 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Youngjae Lee</h1>
+<h1 align="center">Youngjae Lee</h1>
 
 <p align="center">
-  <b>AI Software Engineer · Backend Developer · Problem Solver</b>
+Software Engineer
 </p>
 
-<p align="center">
-Building intelligent software with AI, backend systems, and data.
-</p>
+<div align="center">
+
+```text
+youngjae@github:~$ whoami
+
+Youngjae Lee
+
+Software Engineer
+
+Interested in AI,
+Building reliable backend systems.
+```
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 📫 Connect
 
-I enjoy turning ideas into real products through software.
+<p>
+<a href="mailto:leeyoungjae0096@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-My journey started with Medical IT Engineering, where I learned how technology can solve real-world problems in healthcare. Since then, I've been focused on building AI-powered applications, backend systems, and data-driven services.
-
-Recently, my interests have expanded to LLM applications, Multi-Agent Systems, and cloud-native backend architectures.
-
-I believe great software is built not only with good code, but also with thoughtful system design and continuous learning.
+<a href="https://www.linkedin.com/in/youngjaelee0096">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -28,127 +40,41 @@ I believe great software is built not only with good code, but also with thought
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,supabase" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nodejs,supabase,postgres" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind" />
 </p>
 
 ### AI / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-- OpenAI API
-- Claude API
-- Prompt Engineering
-- Prompt Chaining
-- Seq2Seq
-- Memory Stream
-- PostgreSQL
-- SQL
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Chaining-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seq2Seq-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+</p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,github" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,github,figma" />
 </p>
-
----
-
-# 🌟 Featured Projects
-
-## 🤖 AI Agent Simulation
-
-> Multi-Agent system inspired by Stanford's Generative Agents.
-
-**Highlights**
-
-- Designed persona-based AI agents
-- Implemented Memory Stream architecture
-- Built prompt chaining workflow
-- Real-time communication with Django Channels
-
-**Tech**
-
-`Python` `Django` `OpenAI API` `Claude` `Prompt Engineering`
-
----
-
-## ✈️ AI Travel Recommendation
-
-AI itinerary recommendation system that generates personalized travel schedules.
-
-**Highlights**
-
-- Seq2Seq recommendation model
-- Improved recommendation accuracy
-- Flask API server
-- Flutter mobile application
-
-**Tech**
-
-`TensorFlow`
-`Flask`
-`Flutter`
-`Python`
-
----
-
-## 📊 Financial Dashboard
-
-A modern financial dashboard for visualizing and managing financial data.
-
-**Highlights**
-
-- Built with Next.js
-- PostgreSQL via Supabase
-- Authentication
-- Realtime updates
-
-**Tech**
-
-`Next.js`
-`TypeScript`
-`Supabase`
-`PostgreSQL`
-
----
-
-## 🍽️ Mealance
-
-Nutrition recommendation platform helping users maintain balanced dietary habits.
-
-**Highlights**
-
-- Nutrition analysis
-- Food recommendation
-- Firebase backend
-- React Native application
-
----
-
-# 🤝 Let's Connect
-
-💼 LinkedIn *(Coming Soon)*
-
-🌐 Portfolio *(Coming Soon)*
-
-📧 Email *(Coming Soon)*
-
----
-
-> **"Building software that bridges AI research and real-world products."**
 
 <!--
 **YoooungJae/YoooungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
