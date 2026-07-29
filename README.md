@@ -42,11 +42,6 @@ developer = {
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
 </p>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YoooungJae&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoooungJae&layout=compact&hide_border=true&theme=transparent"/>
-</p>
 
 <!--
 **YoooungJae/YoooungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
