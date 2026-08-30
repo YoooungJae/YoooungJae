@@ -1,18 +1,59 @@
-# 💫 About Me:
-<h1 align="center">Youngjae Lee</h1><br><br><p align="center"><br>Software Engineer<br></p><br><br>```python<br>developer = {<br>    "name": "Youngjae Lee",<br>    "role": "Software Engineer",<br>    "interests": [<br>        "Backend",<br>        "Artificial Intelligence",<br>        "Data Engineering"<br>    ],<br>    "currently": "Building reliable software while growing in AI"<br>}<br>```<br><br><p><br><a href="mailto:leeyoungjae0096@gmail.com"><br><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><br></a><br><br><a href="https://www.linkedin.com/in/youngjaelee0096"><br><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br></a><br></p><br><br>## Tech Stack<br><br><p><br><img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,django,flask,nodejs,react,nextjs,flutter,postgres,supabase,tensorflow,docker,git,vscode,github,figma" /><br></p><br><br><p><br><img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/><br><img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square"/><br><img src="https://img.shields.io/badge/Prompt_Engineering-555555?style=flat-square"/><br><img src="https://img.shields.io/badge/Prompt_Chaining-2563EB?style=flat-square"/><br><img src="https://img.shields.io/badge/Seq2Seq-10B981?style=flat-square"/><br><img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/><br></p><br><br><br><!--<br>**YoooungJae/YoooungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>-->
+<h1 align="center">Youngjae Lee</h1>
+
+<p align="center">
+Software Engineer
+</p>
+
+```python
+developer = {
+    "name": "Youngjae Lee",
+    "role": "Software Engineer",
+    "interests": [
+        "Backend",
+        "Artificial Intelligence",
+        "Data Engineering"
+    ],
+    "currently": "Building reliable software while growing in AI"
+}
+```
+
+<p>
+<a href="mailto:leeyoungjae0096@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/youngjaelee0096">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,django,flask,nodejs,react,nextjs,flutter,postgres,supabase,tensorflow,docker,git,vscode,github,figma" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Chaining-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seq2Seq-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/youngjaelee0096) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leeyoungjae0096@gmail.com) 
+<!--
+**YoooungJae/YoooungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YoooungJae&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=YoooungJae&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YoooungJae&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Here are some ideas to get you started:
 
----
-[![](https://komarev.com/ghpvc/?username=YoooungJae&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
